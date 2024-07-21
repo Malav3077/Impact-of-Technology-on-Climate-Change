@@ -1,0 +1,14 @@
+[19/Feb/2023:13:07:12] (I): WordPress Instance Info:
+[19/Feb/2023:13:07:12] (I): Home URL : http://localhost/wordpress
+[19/Feb/2023:13:07:12] (I): Site URL : http://localhost/wordpress
+[19/Feb/2023:13:07:12] (I): WordPress Version : 6.1.1
+[19/Feb/2023:13:07:12] (I): Onboarding Version : 1.1.34
+[19/Feb/2023:13:07:12] (I): Multisite : No
+[19/Feb/2023:13:07:12] (I): Server Info : Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.2.0
+[19/Feb/2023:13:07:12] (I): PHP Version : 8.2.0
+[19/Feb/2023:13:07:12] (I): HTTPS : No
+[19/Feb/2023:13:07:12] (I): PHP Max Execution Time : 120
+[19/Feb/2023:13:07:12] (I): PHP Max Input Vars : 1000
+[19/Feb/2023:13:07:12] (I): Max Upload Size : 41943040
+[19/Feb/2023:13:07:12] (I): Plugins:
+[19/Feb/2023:13:07:12] (I): [PLUGIN] Templates Patterns Collection : v1.1.34 (ThemeIsle)
